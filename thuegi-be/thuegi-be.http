@@ -1,0 +1,6 @@
+@thuegi_be_HostAddress = http://localhost:5131
+
+GET {{thuegi_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
