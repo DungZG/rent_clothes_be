@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("thuegi-be")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7243b6788efcf6b3812e601e46202409f2ee72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f4679ec91fc6e049e8dd39036e84717749691e")]
 [assembly: System.Reflection.AssemblyProductAttribute("thuegi-be")]
 [assembly: System.Reflection.AssemblyTitleAttribute("thuegi-be")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
