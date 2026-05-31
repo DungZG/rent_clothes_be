@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HIWcTl12Adw=",
+  "dgSpecHash": "E+bg3yC5Kj0=",
   "success": true,
   "projectFilePath": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zerog\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

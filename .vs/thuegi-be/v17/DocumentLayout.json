@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5C9A646-6395-49EA-BE3E-AC844901F26F}|thuegi-be\\thuegi-be.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\thuegi-be\\thuegi-be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C5C9A646-6395-49EA-BE3E-AC844901F26F}|thuegi-be\\thuegi-be.csproj|solutionrelative:thuegi-be\\thuegi-be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F352601D-9A7B-4FF6-8A15-3AE907BFCCEE}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352601D-9A7B-4FF6-8A15-3AE907BFCCEE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD160D41-2521-4220-A2F8-0956C801196B}|Domain\\Domain.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD160D41-2521-4220-A2F8-0956C801196B}|Domain\\Domain.csproj|solutionrelative:domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F352601D-9A7B-4FF6-8A15-3AE907BFCCEE}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F352601D-9A7B-4FF6-8A15-3AE907BFCCEE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9185318C-4267-42FE-BDDD-957AF16A3932}|Application\\Application.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9185318C-4267-42FE-BDDD-957AF16A3932}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C9A646-6395-49EA-BE3E-AC844901F26F}|thuegi-be\\thuegi-be.csproj|e:\\workspace\\work\\rent_clothes_project\\thuegi-be\\thuegi-be\\thuegi-be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5C9A646-6395-49EA-BE3E-AC844901F26F}|thuegi-be\\thuegi-be.csproj|solutionrelative:thuegi-be\\thuegi-be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\Infrastructure\\Program.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Program.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
@@ -69,8 +69,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "thuegi-be",
+              "DocumentIndex": 3,
+              "Title": "thuegi-be.csproj",
               "DocumentMoniker": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\thuegi-be\\thuegi-be.csproj",
               "RelativeDocumentMoniker": "thuegi-be\\thuegi-be.csproj",
               "ToolTip": "E:\\WorkSpace\\Work\\rent_clothes_project\\thuegi-be\\thuegi-be\\thuegi-be.csproj",

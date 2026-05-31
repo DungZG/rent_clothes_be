@@ -1,0 +1,15 @@
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\bin\Debug\net8.0\Domain.dll
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\bin\Debug\net8.0\Domain.pdb
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.dll
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\Domain.pdb
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\.tmp-build-clean-arch\Domain.deps.json
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\.tmp-build-clean-arch\Domain.dll
+E:\WorkSpace\Work\rent_clothes_project\thuegi-be\.tmp-build-clean-arch\Domain.pdb
